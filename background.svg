@@ -42,9 +42,9 @@
      pagecolor="#8c8c8c"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.0986119"
-     inkscape:cx="456.8944"
-     inkscape:cy="109.88604"
+     inkscape:zoom="8.7888952"
+     inkscape:cx="437.5853"
+     inkscape:cy="132.50805"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:current-layer="svg2"
@@ -60,30 +60,38 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4572">
+       id="linearGradient845"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.87843138"
+         id="stop841"
          offset="0"
-         id="stop4568" />
+         style="stop-color:#e0e0e0;stop-opacity:0.87843138" />
       <stop
-         style="stop-color:#808080;stop-opacity:0.87843138"
+         style="stop-color:#d8d8d8;stop-opacity:0.87843138"
+         offset="0.50449491"
+         id="stop847" />
+      <stop
+         id="stop849"
+         offset="0.52436912"
+         style="stop-color:#c8c8c8;stop-opacity:0.78431374" />
+      <stop
+         id="stop843"
          offset="1"
-         id="stop4570" />
+         style="stop-color:#c8c8c8;stop-opacity:0.87843138" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4572"
+       xlink:href="#linearGradient845"
        id="linearGradient4580"
        gradientUnits="userSpaceOnUse"
        x1="477.87576"
        y1="-1.4601221"
        x2="477.87576"
-       y2="73.179527" />
+       y2="40.410904" />
   </defs>
   <path
      d="M 999.5,150 C 999.5,100.16667 999.5,50.333333 999.5,0.5 L 0.5,0.5 L 0.5,150"
      id="rect2396"
-     style="opacity:1;fill:url(#linearGradient4580);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:url(#linearGradient4580);fill-opacity:1;stroke:#606060;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87843138"
      sodipodi:nodetypes="cccc" />
 </svg>
