@@ -2,6 +2,8 @@
 
 A frosted-glass theme for Docky, reminiscent of Mac OSX 10.6 or so.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 1. Clone this repo (or just download Frost.tar).
