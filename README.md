@@ -6,11 +6,9 @@ A frosted-glass theme for Docky, reminiscent of Mac OSX 10.6 or so.
 
 ## Installation
 
-1. Clone this repo (or just download Frost.tar).
-2. Right-click the Docky icon in the dock (or right-click the divider), choose
-   'Settings' from the menu, and click 'Install' next to 'Theme'. Choose
-   Frost.tar.
-3. `killall docky` and relaunch Docky.
+1. `git clone https://github.com/benchristel/docky-frost ~/.local/share/docky/themes/Frost`
+2. `killall docky` and relaunch Docky.
+3. Right-click the Docky icon in the dock and choose "Settings". Choose "Frost" from the dropdown labeled "Theme".
 
 ## Tips for installing Docky
 
