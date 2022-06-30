@@ -44,6 +44,3 @@ Of course, this makes it a bit harder to access Docky's settings. You can still
 get to them by right-clicking a divider in the dock, or, if there's no divider,
 by right-clicking the dock background near the edge.
 
-## Development
-
-Run `./build.sh` to generate `Frost.tar` from the svg files.
