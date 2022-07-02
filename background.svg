@@ -30,8 +30,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="853"
-     inkscape:window-width="1400"
+     inkscape:window-height="767"
+     inkscape:window-width="1440"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.70980392"
      guidetolerance="10.0"
@@ -42,11 +42,11 @@
      pagecolor="#8c8c8c"
      id="base"
      showgrid="false"
-     inkscape:zoom="8.7888952"
-     inkscape:cx="437.5853"
-     inkscape:cy="132.50805"
+     inkscape:zoom="7.6310271"
+     inkscape:cx="994.25397"
+     inkscape:cy="126.2236"
      inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-y="321"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -60,24 +60,52 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient831">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop827" />
+      <stop
+         id="stop835"
+         offset="0.03992373"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0.96530235"
+         id="stop839" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop829" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient845"
        inkscape:collect="always">
       <stop
          id="stop841"
          offset="0"
-         style="stop-color:#e0e0e0;stop-opacity:0.87843138" />
+         style="stop-color:#c8c8c8;stop-opacity:0.58039218" />
       <stop
-         style="stop-color:#d8d8d8;stop-opacity:0.87843138"
-         offset="0.50449491"
+         style="stop-color:#d8d8d8;stop-opacity:0.58039218"
+         offset="0.4219037"
          id="stop847" />
       <stop
          id="stop849"
-         offset="0.52436912"
-         style="stop-color:#c8c8c8;stop-opacity:0.78431374" />
+         offset="0.43887579"
+         style="stop-color:#c8c8c8;stop-opacity:0.49803922" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0.49803922"
+         offset="0.75343502"
+         id="stop820" />
+      <stop
+         id="stop2307"
+         offset="0.95847255"
+         style="stop-color:#a6a6a6;stop-opacity:0.70980392;" />
       <stop
          id="stop843"
          offset="1"
-         style="stop-color:#c8c8c8;stop-opacity:0.87843138" />
+         style="stop-color:#606060;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -87,11 +115,43 @@
        x1="477.87576"
        y1="-1.4601221"
        x2="477.87576"
-       y2="40.410904" />
+       y2="151.09265"
+       gradientTransform="matrix(1,0,0,0.29599269,0,0.35200366)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient831"
+       id="linearGradient833"
+       x1="5.2417583"
+       y1="51.392117"
+       x2="994.6272"
+       y2="51.392117"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     d="M 999.5,150 C 999.5,100.16667 999.5,50.333333 999.5,0.5 L 0.5,0.5 L 0.5,150"
+     d="m 999.5,44.750906 c 0,-14.750301 0,-29.500604 0,-44.250906 H 0.5 v 44.250906"
      id="rect2396"
      style="opacity:1;fill:url(#linearGradient4580);fill-opacity:1;stroke:#606060;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87843138"
-     sodipodi:nodetypes="cccc" />
+     sodipodi:nodetypes="cccc"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#282828;fill-opacity:0.62745098;stroke-width:1.00006485;opacity:0"
+     id="rect822"
+     width="998.24261"
+     height="45.480446"
+     x="0.92095554"
+     y="36.414028" />
+  <rect
+     style="fill:none;fill-opacity:0.58039216;stroke:#ffffff;stroke-width:0.88842553;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31372549"
+     id="rect823"
+     width="997.11163"
+     height="42.111576"
+     x="1.4442126"
+     y="1.4442111" />
+  <rect
+     style="fill:url(#linearGradient833);fill-opacity:1;stroke:none;stroke-width:1.00351202;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31372549"
+     id="rect825"
+     width="1000"
+     height="13.215762"
+     x="0"
+     y="44.784237" />
 </svg>
