@@ -30,8 +30,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="767"
-     inkscape:window-width="1440"
+     inkscape:window-height="638"
+     inkscape:window-width="1122"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.70980392"
      guidetolerance="10.0"
@@ -42,15 +42,15 @@
      pagecolor="#8c8c8c"
      id="base"
      showgrid="false"
-     inkscape:zoom="7.6310271"
-     inkscape:cx="994.25397"
-     inkscape:cy="126.2236"
-     inkscape:window-x="0"
-     inkscape:window-y="321"
+     inkscape:zoom="3.0974253"
+     inkscape:cx="480.214"
+     inkscape:cy="170.82673"
+     inkscape:window-x="229"
+     inkscape:window-y="100"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid3166"
@@ -85,17 +85,17 @@
       <stop
          id="stop841"
          offset="0"
-         style="stop-color:#c8c8c8;stop-opacity:0.58039218" />
+         style="stop-color:#e6e6e6;stop-opacity:0.50980395" />
       <stop
-         style="stop-color:#d8d8d8;stop-opacity:0.58039218"
+         style="stop-color:#d7d7d7;stop-opacity:0.627451"
          offset="0.4219037"
          id="stop847" />
       <stop
          id="stop849"
          offset="0.43887579"
-         style="stop-color:#c8c8c8;stop-opacity:0.49803922" />
+         style="stop-color:#c8c8c8;stop-opacity:0.54901963" />
       <stop
-         style="stop-color:#c8c8c8;stop-opacity:0.49803922"
+         style="stop-color:#c8c8c8;stop-opacity:0.627451"
          offset="0.75343502"
          id="stop820" />
       <stop
