@@ -42,11 +42,11 @@
      pagecolor="#8c8c8c"
      id="base"
      showgrid="false"
-     inkscape:zoom="3.0974253"
-     inkscape:cx="480.214"
-     inkscape:cy="170.82673"
-     inkscape:window-x="229"
-     inkscape:window-y="100"
+     inkscape:zoom="1.7649385"
+     inkscape:cx="488.88963"
+     inkscape:cy="160.96453"
+     inkscape:window-x="142"
+     inkscape:window-y="119"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -85,23 +85,23 @@
       <stop
          id="stop841"
          offset="0"
-         style="stop-color:#e6e6e6;stop-opacity:0.50980395" />
+         style="stop-color:#d7d7d7;stop-opacity:0.50980395" />
       <stop
          style="stop-color:#d7d7d7;stop-opacity:0.627451"
-         offset="0.4219037"
+         offset="0.5383575"
          id="stop847" />
       <stop
          id="stop849"
-         offset="0.43887579"
-         style="stop-color:#c8c8c8;stop-opacity:0.54901963" />
+         offset="0.55089325"
+         style="stop-color:#c8c8c8;stop-opacity:0.52941179" />
       <stop
-         style="stop-color:#c8c8c8;stop-opacity:0.627451"
-         offset="0.75343502"
-         id="stop820" />
+         style="stop-color:#d7d7d7;stop-opacity:0.56862748"
+         offset="0.95137542"
+         id="stop830" />
       <stop
          id="stop2307"
-         offset="0.95847255"
-         style="stop-color:#a6a6a6;stop-opacity:0.70980392;" />
+         offset="0.95533562"
+         style="stop-color:#282828;stop-opacity:0.49803922" />
       <stop
          id="stop843"
          offset="1"
@@ -141,12 +141,13 @@
      x="0.92095554"
      y="36.414028" />
   <rect
-     style="fill:none;fill-opacity:0.58039216;stroke:#ffffff;stroke-width:0.88842553;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31372549"
+     style="fill:none;fill-opacity:0.58039216;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.54901963"
      id="rect823"
-     width="997.11163"
-     height="42.111576"
-     x="1.4442126"
-     y="1.4442111" />
+     width="998.06293"
+     height="0.020230815"
+     x="1.499899"
+     y="-44.200104"
+     transform="scale(1,-1)" />
   <rect
      style="fill:url(#linearGradient833);fill-opacity:1;stroke:none;stroke-width:1.00351202;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31372549"
      id="rect825"
