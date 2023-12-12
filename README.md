@@ -9,6 +9,8 @@ A frosted-glass theme for Docky, reminiscent of Mac OSX 10.6 or so.
 1. `git clone https://github.com/benchristel/docky-frost ~/.local/share/docky/themes/Frost`
 2. `killall docky` and relaunch Docky.
 3. Right-click the Docky icon in the dock and choose "Settings". Choose "Frost" from the dropdown labeled "Theme".
+4. Choose your icon size. The `main` branch of docky-frost is designed for 64px icons. If you want to use
+   48px icons, check out the `48px` branch.
 
 ## Tips for installing Docky
 
